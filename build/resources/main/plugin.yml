@@ -1,0 +1,5 @@
+name: MobLimit
+version: 1.0
+main: MobLimit
+author: Rain_G
+description: A plugin that limits the number of mobs that can spawn in a chunk.
